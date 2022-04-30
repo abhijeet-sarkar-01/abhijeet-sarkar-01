@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhijeet-sarkar-01
-- 👀 I’m interested in competetive coding, web development and IoT.
+- 👀 I’m interested in competitive coding, web development and IoT.
 - 🌱 I’m currently learning Git, C, HTML, CSS and Javascript.
 - 💞️ I’m planning to learn back-end development in order to become a full stack developer.
 - 💞️ I also want to explore more about AI, ML, IoT etc.
