@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a second year undergrad student pursuing a bachelors in Electronics and Communication Engineering. I am an aspiring Full-Stack Developer. Currently, I am learning Front-End. I am working on HTML, CSS, Bootstrap, JS etc.
+I am a third year undergrad pursuing a Bachelors in Electronics and Communication Engineering. I am an aspiring Full-Stack Developer. Currently, I am learning Front-End. I am working on HTML, CSS, Bootstrap, JS etc.
 
 
 ## 🌐 Socials:
